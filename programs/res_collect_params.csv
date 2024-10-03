@@ -1,0 +1,9 @@
+Runs,MetricValue,MetricName
+final_model_with_roc_auc,0.7262227118100759,cv_test_mean_score_fbeta
+final_model_with_roc_auc,0.6785063752276868,test_accuracy
+final_model_with_roc_auc,0.6785063752276868,test_accuracy
+LogisticRegression_ROC_AUC,0.7361798311256198,test_cv_mean
+final_model_with_roc_auc,0.5257037208577947,test_f1_score
+final_model_with_roc_auc,0.5257037208577947,test_f1_score
+LogisticRegression_F10,0.7071233906587727,test_fbeta_score
+LogisticRegression_ROC_AUC,0.7628260138721776,test_roc_auc
